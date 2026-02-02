@@ -75,7 +75,7 @@ Dr. A.P.J Abdul Kalam Technical University
 ## 📈 GitHub Trophies
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shrikantc44&theme=radical&column=7&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shrikantc44)
 
 </div>
 
